@@ -1,0 +1,8 @@
+emocion,imagen_id,imagen_path,distancia,conf,class_idx
+anger,test_1471_aligned.jpg,../RAF_DB/DATASET/test/anger/test_1471_aligned.jpg,0.14049172,0.9999883,0
+disgust,test_0640_aligned.jpg,../RAF_DB/DATASET/test/disgust/test_0640_aligned.jpg,0.13378036,0.9992859,1
+fear,test_2274_aligned.jpg,../RAF_DB/DATASET/test/fear/test_2274_aligned.jpg,0.09840852,0.9999596,2
+happy,test_0942_aligned.jpg,../RAF_DB/DATASET/test/happy/test_0942_aligned.jpg,0.12645799,0.9983729,3
+neutral,test_3055_aligned.jpg,../RAF_DB/DATASET/test/neutral/test_3055_aligned.jpg,0.15206522,0.9569946,4
+sad,test_2118_aligned.jpg,../RAF_DB/DATASET/test/sad/test_2118_aligned.jpg,0.106696546,0.9999678,5
+surprise,test_1651_aligned.jpg,../RAF_DB/DATASET/test/surprise/test_1651_aligned.jpg,0.10905802,0.9998091,6

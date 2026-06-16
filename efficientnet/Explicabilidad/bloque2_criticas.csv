@@ -1,0 +1,5 @@
+emocion,imagen_id,imagen_path,distancia,conf,class_idx
+happy,test_1905_aligned.jpg,../RAF_DB/DATASET/test/happy/test_1905_aligned.jpg,0.382069,0.5859597,3
+disgust,test_2379_aligned.jpg,../RAF_DB/DATASET/test/disgust/test_2379_aligned.jpg,0.4003803,0.4271038,1
+fear,test_2265_aligned.jpg,../RAF_DB/DATASET/test/fear/test_2265_aligned.jpg,0.41298723,0.46332675,2
+anger,test_1200_aligned.jpg,../RAF_DB/DATASET/test/anger/test_1200_aligned.jpg,0.41356838,0.5141609,0

@@ -1,0 +1,5 @@
+*.keras
+*.h5
+*.pkl
+*.safetensors
+*vit_fase2_final
