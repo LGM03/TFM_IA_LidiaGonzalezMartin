@@ -1,5 +1,5 @@
 emocion,imagen_id,imagen_path,distancia,conf,class_idx
-happy,test_2153_aligned.jpg,../RAF_DB/DATASET/test/happy/test_2153_aligned.jpg,0.13043416,0.6532737,3
-disgust,test_0081_aligned.jpg,../RAF_DB/DATASET/test/disgust/test_0081_aligned.jpg,0.07165378,0.7633929,1
-fear,test_2261_aligned.jpg,../RAF_DB/DATASET/test/fear/test_2261_aligned.jpg,0.058339,0.85174483,2
-anger,test_1263_aligned.jpg,../RAF_DB/DATASET/test/anger/test_1263_aligned.jpg,0.0836401,0.9533133,0
+happy,test_2153_aligned.jpg,../RAF_DB/DATASET/test/happy/test_2153_aligned.jpg,0.15979558,0.6532737,3
+disgust,test_1511_aligned.jpg,../RAF_DB/DATASET/test/disgust/test_1511_aligned.jpg,0.07756019,0.9726198,1
+fear,test_2261_aligned.jpg,../RAF_DB/DATASET/test/fear/test_2261_aligned.jpg,0.08765304,0.85174483,2
+anger,test_1625_aligned.jpg,../RAF_DB/DATASET/test/anger/test_1625_aligned.jpg,0.11746371,0.46119562,0

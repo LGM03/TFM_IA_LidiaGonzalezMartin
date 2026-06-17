@@ -1,8 +1,8 @@
 emocion,imagen_id,imagen_path,distancia,conf,class_idx
-anger,test_1739_aligned.jpg,../RAF_DB/DATASET/test/anger/test_1739_aligned.jpg,0.021183312,0.9738225,0
-disgust,test_1238_aligned.jpg,../RAF_DB/DATASET/test/disgust/test_1238_aligned.jpg,0.024035692,0.8573687,1
-fear,test_1792_aligned.jpg,../RAF_DB/DATASET/test/fear/test_1792_aligned.jpg,0.017569482,0.78499454,2
-happy,test_1392_aligned.jpg,../RAF_DB/DATASET/test/happy/test_1392_aligned.jpg,0.019248247,0.97815657,3
-neutral,test_3022_aligned.jpg,../RAF_DB/DATASET/test/neutral/test_3022_aligned.jpg,0.023465753,0.8605604,4
-sad,test_0948_aligned.jpg,../RAF_DB/DATASET/test/sad/test_0948_aligned.jpg,0.025448024,0.8282876,5
-surprise,test_0851_aligned.jpg,../RAF_DB/DATASET/test/surprise/test_0851_aligned.jpg,0.021627367,0.97393554,6
+anger,test_2024_aligned.jpg,../RAF_DB/DATASET/test/anger/test_2024_aligned.jpg,0.033591986,0.59386057,0
+disgust,test_2314_aligned.jpg,../RAF_DB/DATASET/test/disgust/test_2314_aligned.jpg,0.036837935,0.8268449,1
+fear,test_2285_aligned.jpg,../RAF_DB/DATASET/test/fear/test_2285_aligned.jpg,0.021744013,0.9601794,2
+happy,test_0897_aligned.jpg,../RAF_DB/DATASET/test/happy/test_0897_aligned.jpg,0.02859211,0.99253404,3
+neutral,test_2543_aligned.jpg,../RAF_DB/DATASET/test/neutral/test_2543_aligned.jpg,0.023821175,0.63322943,4
+sad,test_1753_aligned.jpg,../RAF_DB/DATASET/test/sad/test_1753_aligned.jpg,0.038111627,0.9929668,5
+surprise,test_0919_aligned.jpg,../RAF_DB/DATASET/test/surprise/test_0919_aligned.jpg,0.026394367,0.9911975,6

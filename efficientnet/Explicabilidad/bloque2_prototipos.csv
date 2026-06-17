@@ -5,4 +5,4 @@ fear,test_2274_aligned.jpg,../RAF_DB/DATASET/test/fear/test_2274_aligned.jpg,0.0
 happy,test_0942_aligned.jpg,../RAF_DB/DATASET/test/happy/test_0942_aligned.jpg,0.12645799,0.9983729,3
 neutral,test_3055_aligned.jpg,../RAF_DB/DATASET/test/neutral/test_3055_aligned.jpg,0.15206522,0.9569946,4
 sad,test_2118_aligned.jpg,../RAF_DB/DATASET/test/sad/test_2118_aligned.jpg,0.106696546,0.9999678,5
-surprise,test_1651_aligned.jpg,../RAF_DB/DATASET/test/surprise/test_1651_aligned.jpg,0.10905802,0.9998091,6
+surprise,test_1651_aligned.jpg,../RAF_DB/DATASET/test/surprise/test_1651_aligned.jpg,0.10905784,0.9998091,6
