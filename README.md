@@ -11,6 +11,8 @@ El estudio evalúa el rendimiento, la eficiencia computacional y la explicabilid
 
 Para la reproductividad del trabajo se recomienda descargar el dataset RAF-DB de Kaggle (https://www.kaggle.com/datasets/shuvoalok/raf-db-dataset) y agregarlo al directorio principal.
 
+Por restricciones de tamaño, los modelos entrenados se encuentran disponibles através de Drive (https://drive.google.com/drive/folders/19xTCW5RG9nLwS2fdLhvgyftNhzk9jqXt?usp=drive_link), para el correcto funcionamiento del codigo, se recomienda guardar cada modelo en su correspondiente carpeta. Por ejemplo, la carpeta vit_fase2_final, debe ir dentro de la carpeta vit.
+
 ## Objetivos
 
 Los objetivos principales del trabajo son:
