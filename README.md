@@ -1,4 +1,3 @@
-
 ## Resumen del proyecto
 
 Este repositorio contiene la implementación experimental del Trabajo Fin de Máster (TFM) orientado al análisis comparativo entre enfoques clásicos de aprendizaje automático y arquitecturas modernas de Deep Learning aplicadas a la clasificación de imágenes.
@@ -22,7 +21,7 @@ Los objetivos principales del trabajo son:
 * Estudiar la explicabilidad de los modelos mediante analisis de Grad-CAM, Attention Rollout, representaciones del espacio vectorial, prototipos y críticas
 * Analizar la los resultados en concepto de complejidad del modelo, rendimiento y latencia.
 
-Para contexto metodológico, análisis de resultados y conclusiones, consulta EstudioComparativoModelosFER.pdf
+Para contexto metodológico, análisis de resultados y conclusiones, consulta TFM_LidiaGonzalezMartin.pdf
 
 ## Modelos utilizados
 
